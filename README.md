@@ -1,8 +1,6 @@
-# echizenkaigan
+# jk-map
 
-https://code4fukui.github.io/echizenkaigan/
+https://code4fukui.github.io/jk-map/
 
-## 連携団体
 
-- [越前海岸盛り上げ隊](https://discoverechizen.com/)
-- [福井高専](https://www.fukui-nct.ac.jp/)
+
