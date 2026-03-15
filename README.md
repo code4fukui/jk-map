@@ -1,5 +1,7 @@
 # jk-map
 
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
+
 A map of local businesses in a Japanese town.
 
 ## Demo
