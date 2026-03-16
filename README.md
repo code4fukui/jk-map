@@ -19,4 +19,4 @@ The project is a static website hosted on GitHub Pages. To use, simply open the 
 The business information is stored in a CSV file (`jk-map.csv`) which is loaded and displayed on the map.
 
 ## License
-The project does not specify a license.
+MIT License — see [LICENSE](LICENSE).
