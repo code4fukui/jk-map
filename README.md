@@ -6,7 +6,7 @@ A simple, data-driven interactive map showcasing local businesses and tourist sp
 
 ## Demo
 
-View the live map: **https://code4fukui.github.io/jk-map/**
+View the live map: **https://github.com/code4fukui/jk-map
 
 ## Features
 

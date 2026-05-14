@@ -4,7 +4,7 @@
 
 ## デモ
 
-実際のマップはこちら: **https://code4fukui.github.io/jk-map/**
+実際のマップはこちら: **https://github.com/code4fukui/jk-map
 
 ## 機能
 
